@@ -12,6 +12,8 @@ namespace DemoTest
         {
             Console.WriteLine("Hello World");
 
+            Console.WriteLine("this is for demo");
+
             Console.ReadKey();
 
         }
